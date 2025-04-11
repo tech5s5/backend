@@ -1,0 +1,13 @@
+phidata
+pypdf
+psycopg2-binary
+sqlalchemy
+python-dotenv
+fastapi
+uvicorn
+groq
+google-search-results
+fastapi
+uvicorn
+python-dotenv
+
